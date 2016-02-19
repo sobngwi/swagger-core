@@ -1,0 +1,3 @@
+/greeting
+/v2/api-docs?group=greetings
+/swagger-ui.html
